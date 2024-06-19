@@ -3,6 +3,22 @@
     {
       "id": "Page1",
       "isDefault": true
+    },
+    {
+      "id": "Sheet1",
+      "isDefault": false
+    },
+    {
+      "id": "Sheet12",
+      "isDefault": false
+    },
+    {
+      "id": "Sheet13",
+      "isDefault": false
+    },
+    {
+      "id": "Sheet14",
+      "isDefault": false
     }
   ],
   "viewMode": false,
