@@ -1,23 +1,23 @@
 {
-  "gitSyncId": "66714ce773c35a3d22ccd4fe_a5ff8749-95c8-4715-bbe9-5c71b3deaebd",
+  "gitSyncId": "66714db4cfe6234d1bbd0f57_fc1dac83-023e-45e4-b9f0-991672b7914c",
   "unpublishedPage": {
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 380,
+          "bottomRow": 890,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
           "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "minHeight": 1292,
+          "minHeight": 890,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 4896,
+          "rightColumn": 1174,
           "snapColumns": 64,
-          "snapRows": 124,
+          "snapRows": 125,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 89,
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "DISTRICT",
+    "slug": "district"
   }
 }
