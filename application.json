@@ -13,6 +13,14 @@
   "icon": "cat",
   "pages": [
     {
+      "id": "Send Messages",
+      "isDefault": false
+    },
+    {
+      "id": "Customer Data",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     }
