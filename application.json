@@ -18,6 +18,10 @@
   "icon": "cat",
   "pages": [
     {
+      "id": "Calendar Mobile",
+      "isDefault": false
+    },
+    {
       "id": "Send Messages",
       "isDefault": false
     },
