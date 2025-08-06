@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "utils.generateRandomTimeInWorkingHours",
     "name": "generateRandomTimeInWorkingHours",
     "pageId": "Calendar Mobile",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

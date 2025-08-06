@@ -50,9 +50,9 @@
       "name": "Gsheets",
       "pluginId": "google-sheets-plugin"
     },
-    "executeOnLoad": false,
     "name": "Api1",
     "pageId": "Page2",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

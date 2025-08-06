@@ -45,9 +45,9 @@
         "key": "formData.insert.documents.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "AddNewList",
     "pageId": "Send Messages",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

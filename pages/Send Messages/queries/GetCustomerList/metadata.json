@@ -55,9 +55,9 @@
         "key": "formData.find.query.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "GetCustomerList",
     "pageId": "Send Messages",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": true
   }
 }

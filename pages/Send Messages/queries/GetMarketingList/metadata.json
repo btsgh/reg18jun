@@ -60,9 +60,9 @@
         "key": "formData.find.skip.data"
       }
     ],
-    "executeOnLoad": true,
     "name": "GetMarketingList",
     "pageId": "Send Messages",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

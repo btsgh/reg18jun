@@ -39,9 +39,9 @@
       "pluginId": "mongo-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
     "name": "NumberOfMailinglists",
     "pageId": "Send Messages",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

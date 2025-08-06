@@ -50,9 +50,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "createEvent",
     "pageId": "Calendar Mobile",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

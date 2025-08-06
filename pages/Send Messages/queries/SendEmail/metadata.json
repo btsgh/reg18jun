@@ -33,9 +33,9 @@
         "key": "formData.send.to"
       }
     ],
-    "executeOnLoad": false,
     "name": "SendEmail",
     "pageId": "Send Messages",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

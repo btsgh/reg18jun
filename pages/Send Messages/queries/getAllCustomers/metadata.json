@@ -61,9 +61,9 @@
       "pluginId": "mongo-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
     "name": "getAllCustomers",
     "pageId": "Send Messages",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -22,10 +22,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "utils.createEvent",
     "name": "createEvent",
     "pageId": "Calendar Mobile",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -58,9 +58,9 @@
         "key": "queryParameters[1].value"
       }
     ],
-    "executeOnLoad": true,
     "name": "getEvents",
     "pageId": "Calendar Mobile",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": true
   }
 }

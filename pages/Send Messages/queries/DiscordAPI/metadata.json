@@ -41,9 +41,9 @@
         "key": "datasourceUrl"
       }
     ],
-    "executeOnLoad": false,
     "name": "DiscordAPI",
     "pageId": "Send Messages",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
